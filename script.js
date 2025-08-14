@@ -1,3 +1,3 @@
  function goToWebsite() {
-      window.open('https://www.facebook.com/photo/?fbid=934791305413417&set=a.439775141581705', '_blank');
+      window.open('https://docs.google.com/forms/d/1UpRSWBw-tU4FQPOA66BXxtGToZ5OK3mVFnIvqW8w9oM/edit?usp=sharing_eil_se_dm&ts=689d7a99', '_blank');
     }
