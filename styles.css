@@ -1,0 +1,18 @@
+
+    /* CSS Styling */
+    .clickable-image {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 300px;
+      padding: 5px;
+      border: 3px solid #007BFF;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .clickable-image:hover {
+      transform: scale(1.05);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
