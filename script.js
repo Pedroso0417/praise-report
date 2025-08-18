@@ -1,3 +1,3 @@
  function goToWebsite() {
-      window.open('https://docs.google.com/forms/d/1UpRSWBw-tU4FQPOA66BXxtGToZ5OK3mVFnIvqW8w9oM/edit?usp=sharing_eil_se_dm&ts=689d7a99', '_blank');
+      window.open('https://l.facebook.com/l.php?u=https%3A%2F%2Fforms.gle%2Fx95ksBRC1PbxuM8p6&h=AT1pnx_USNY5QAhPBsXbCK4NXMUdmE0xWAoajZewqwQgF4CmHowRj1it01ycfONDE_FnxFQZ-5RSv6ClM-zgAWsYbOEXU7YAnlDxkj_y1MAMDoAAHwN5dDHM9JA9_-M&s=1', '_blank');
     }
