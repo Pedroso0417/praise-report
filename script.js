@@ -1,16 +1,16 @@
-document.querySelector('.clickable-image').addEventListener('click', function(event) {
-            event.preventDefault(); // Prevent the default anchor behavior
+// document.querySelector('.clickable-image').addEventListener('click', function(event) {
+//             event.preventDefault(); // Prevent the default anchor behavior
             
-            // Trigger the image download
-            const link = document.createElement('a');
-            link.href = './image/praise-report.jpg';
-            link.download = 'praise-report.jpg';
-            link.click(); // Initiates the download
+//             // Trigger the image download
+//             const link = document.createElement('a');
+//             link.href = './image/praise-report.jpg';
+//             link.download = 'praise-report.jpg';
+//             link.click(); // Initiates the download
 
-            // Optionally, you can display the link to the Google Form
-            const formLink = "https://docs.google.com/forms/d/e/1FAIpQLSchHEQxuzPXIsV61AqanlzkR4BSSaMztN0LwV12fQRSc7G61A/viewform";
-            alert('Image downloaded! You can also go to the Praise Report Form: ' + formLink);
-        });
+//             // Optionally, you can display the link to the Google Form
+//             const formLink = "https://docs.google.com/forms/d/e/1FAIpQLSchHEQxuzPXIsV61AqanlzkR4BSSaMztN0LwV12fQRSc7G61A/viewform";
+//             alert('Image downloaded! You can also go to the Praise Report Form: ' + formLink);
+//         });
 // async function downloadFormData() {
 //     const sheetID = "your-sheet-id-here"; // Replace with your Google Sheet ID
 //     const apiKey = "your-api-key"; // Your API Key
